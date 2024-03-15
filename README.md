@@ -29,7 +29,7 @@ Before getting started, ensure you have the following prerequisites:
 ### Usage
 1. Clone this repository.
 2. Update the buildspec according to your needs.
-3. Add additional Runners if you want :) 
+3. Add additional Runners if you want 🤘
 4. Execute `terraform apply`
 
 ## Contributing
