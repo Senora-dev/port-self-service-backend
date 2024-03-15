@@ -6,12 +6,9 @@ Welcome to the Self-Service Backend project! 🎉 This project utilizes two main
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Features](#features)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-  - [Configuration](#configuration)
-- [Usage](#usage)
+  - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
 
