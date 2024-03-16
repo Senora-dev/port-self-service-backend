@@ -1,4 +1,4 @@
-# Self-Service Backend for Developer Portal
+# Self-Service Backend for Port (Developer Portal)
 Welcome to the Self-Service Backend project! 🎉 This project utilizes two main Terraform modules, namely the [Agent](https://github.com/Senora-dev/terraform-aws-self-service-agent) and [Runner](https://github.com/Senora-dev/terraform-aws-self-service-runner), to establish a seamless self-service experience within our Developer Portal at https://getport.io. With this infrastructure in place, developers gain the ability to execute daily operations autonomously via the Portal UI. By leveraging this project, we empower our developers to innovate faster and with greater autonomy, driving efficiency and agility across our development workflows.
 
 ![alt text](https://github.com/Senora-dev/self-service-backend/blob/main/Self%20Service%20Hub%20-%20Backend.png?raw=true)
